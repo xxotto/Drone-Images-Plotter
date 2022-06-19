@@ -1,9 +1,9 @@
 # Drone images plotter (DIP)
 Simple drone images plotter for cases when there is no overlapping between photos.
 
-![Result_1](https://github.com/xxotto/Drone-Images-Plotter/blob/main/results/coordinates_plot.png)
+**Example result:**
 
-![Result_2](https://github.com/xxotto/Drone-Images-Plotter/blob/main/results/images_mosaic.png)
+![example_result](https://github.com/xxotto/Drone-Images-Plotter/blob/main/results/images_mosaic.png)
 
 Assumptions for running DIP:
 
