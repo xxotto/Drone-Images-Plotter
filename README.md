@@ -34,7 +34,7 @@ source env/bin/activate
 pip install -r requirements.txt
 ```
 
-4. `Run DIP.py`
+4. Run `DIP.py`
 ```
 python3 DIP.py 
 ```
