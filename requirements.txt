@@ -1,0 +1,7 @@
+exif
+matplotlib
+numpy
+opencv-python
+pandas
+Pillow
+xmltodict
